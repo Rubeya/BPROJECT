@@ -1,0 +1,44 @@
+.paddingall{
+    padding: 10px 10px 10px;
+
+    .locationname{
+        font-weight: 600;
+    }
+
+    .locationno{
+        font-weight: 14px;
+    }
+    .LocationIconstle{
+        margin-top: 200px;
+        margin-left: 20px;
+    }
+
+    
+    .stationname{
+        font-weight: 600;
+    }
+
+    .stationno{
+        font-weight: 14px;
+    }
+    .LocationIconstle{
+        margin-top: 200px;
+        margin-left: 20px;
+    }
+    
+
+    .portname{
+        font-weight: 600;
+
+    }
+.Totalport{
+    font-weight: 14px;
+}
+
+}
+.EvStationIcon{
+    margin-top: 200px;
+    margin-left: 20px;
+
+}
+
